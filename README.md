@@ -1,14 +1,8 @@
-<h1>Hi 👋, I'm Harini</h1>
+# Hi 👋, I'm Harini
 
-<p>
-  <strong>Frontend Developer • React Enthusiast • Problem Solver</strong>
-</p>
+### 👩‍💻 About Me
 
----
-
-## 👩‍💻 About Me
-
-Passionate Full Stack Developer focused on crafting responsive and user-centric web applications.  Continuously sharpening problem-solving skills and striving to build impactful software solutions.
+Aspiring Full Stack Developer focused on building modern, scalable, and efficient web applications that create real-world impact. Passionate about writing clean, maintainable code and delivering intuitive user experiences while continuously exploring new technologies and best practices. Committed to lifelong learning and professional growth as a software engineer.
 
 ---
 
