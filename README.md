@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harini</h1>
+<h1>Hi 👋, I'm Harini</h1>
 
-<p align="center">
+<p>
   <strong>Frontend Developer • React Enthusiast • Problem Solver</strong>
-</p>
-
-<p align="center">
-  Building modern, scalable web applications with clean UI and efficient architecture.
 </p>
 
 ---
