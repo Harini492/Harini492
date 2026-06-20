@@ -15,9 +15,31 @@
 
 ---
 
+## 👩‍💻 About Me
 
+I'm **Harini R**, a passionate **Full Stack Developer** and final-year Computer Science student (2026) with a strong drive for building impactful web solutions. With a solid academic record (8.31 CGPA) and hands-on experience across **3 internships**, I specialize in creating scalable, user-centric applications using the **MERN stack** and modern cloud-native tools.
 
+### 🚀 What I Bring to the Table
 
+- 🏗️ **Full Stack Expertise** — From pixel-perfect React UIs to robust Node.js APIs with real-time features and authentication systems
+- 🔒 **Security-First Mindset** — Experience with JWT authentication, blockchain-based verification, and race-condition-safe systems
+- 🎨 **Design-Centric Development** — Passionate about clean UI/UX and responsive design that delights users
+- 📦 **Production-Ready Projects** — Built multi-warehouse inventory systems, 3D model compression tools, and collaborative platforms
+- 🤝 **Team Player** — Proven track record of collaborating effectively in internship environments and contributing to shared codebases
+
+### 💡 What Drives Me
+
+> *"I believe in building technology that solves real problems. Every line of code is an opportunity to make someone's life easier."*
+
+### 🎯 Quick Facts
+
+| 💼 **Projects Built** | 🎓 **Internships** | 📜 **Certifications** | 🏆 **CGPA** |
+|:---:|:---:|:---:|:---:|
+| 8+ | 3 | 4 | 8.31 |
+
+### 🌟 My Philosophy
+
+> *"Consistency compounds. Small improvements every day lead to extraordinary results."*
 
 ---
 
@@ -169,6 +191,7 @@
   </a>
 </p>
 
+
 ---
 
 ## 💬 Quote of the Day
@@ -181,7 +204,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Harini492&label=👀%20Profile%20Views&color=0e75b6&style=flat)
+
   
   > ⭐ *"Consistency compounds. Small improvements every day."* ⭐
   
